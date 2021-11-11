@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "coins",
+  "ingredients": [
+    {
+      "item": "silverwolfscurrency:dime"
+    },
+    {
+      "item": "silverwolfscurrency:dime"
+    },
+    {
+      "item": "silverwolfscurrency:nickel"
+    }
+  ],
+  "result": {
+    "item": "silverwolfscurrency:quarter"
+  }
+}

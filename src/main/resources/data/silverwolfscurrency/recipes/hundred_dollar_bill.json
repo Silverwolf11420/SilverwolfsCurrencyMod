@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "dollar_bills",
+  "ingredients": [
+    {
+      "item": "silverwolfscurrency:twenty_dollar_bill"
+    },
+    {
+      "item": "silverwolfscurrency:twenty_dollar_bill"
+    },
+    {
+      "item": "silverwolfscurrency:twenty_dollar_bill"
+    },
+    {
+      "item": "silverwolfscurrency:twenty_dollar_bill"
+    },
+    {
+      "item": "silverwolfscurrency:twenty_dollar_bill"
+    }
+  ],
+  "result": {
+    "item": "silverwolfscurrency:hundred_dollar_bill"
+  }
+}

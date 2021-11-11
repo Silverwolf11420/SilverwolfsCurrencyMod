@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "dollar_bill_revert",
+  "ingredients": [
+    {
+      "item": "silverwolfscurrency:twenty_dollar_bill"
+    }
+  ],
+  "result": {
+    "item": "silverwolfscurrency:ten_dollar_bill",
+    "count": 2
+  }
+}

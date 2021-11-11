@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "coin_revert",
+  "ingredients": [
+    {
+      "item": "silverwolfscurrency:dime"
+    }
+  ],
+  "result": {
+    "item": "silverwolfscurrency:nickel",
+    "count": 2
+  }
+}

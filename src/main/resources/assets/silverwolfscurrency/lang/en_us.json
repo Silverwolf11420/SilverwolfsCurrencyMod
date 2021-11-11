@@ -1,0 +1,13 @@
+{
+  "itemGroup.creativetab": "SC",
+  "item.silverwolfscurrency.penny": "Penny",
+  "item.silverwolfscurrency.nickel": "Nickel",
+  "item.silverwolfscurrency.dime": "Dime",
+  "item.silverwolfscurrency.quarter": "Quarter",
+
+  "item.silverwolfscurrency.dollar_bill": "Dollar Bill",
+  "item.silverwolfscurrency.five_dollar_bill": "Five Dollar Bill",
+  "item.silverwolfscurrency.ten_dollar_bill": "Ten Dollar Bill",
+  "item.silverwolfscurrency.twenty_dollar_bill": "Twenty Dollar Bill",
+  "item.silverwolfscurrency.hundred_dollar_bill": "Hundred Dollar Bill"
+}

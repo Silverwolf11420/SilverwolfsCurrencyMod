@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "coins",
+  "ingredients": [
+    {
+      "item": "silverwolfscurrency:penny"
+    },
+    {
+      "item": "silverwolfscurrency:penny"
+    },
+    {
+      "item": "silverwolfscurrency:penny"
+    },
+    {
+      "item": "silverwolfscurrency:penny"
+    },
+    {
+      "item": "silverwolfscurrency:penny"
+    }
+  ],
+  "result": {
+    "item": "silverwolfscurrency:nickel"
+  }
+}
