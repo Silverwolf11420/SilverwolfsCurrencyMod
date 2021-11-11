@@ -1,0 +1,56 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            }
+          ],
+          "name": "minecraft:bamboo"
+        }
+      ]
+    },
+	{
+      "rolls" : 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2.0,
+                "max": 2.0
+              }
+            }
+          ],
+          "name": "silverwolfscurrency:dime"
+        }
+      ]
+    },
+	{
+      "rolls" : 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0.0,
+                "max": 5.0
+              }
+            }
+          ],
+          "name": "silverwolfscurrency:penny"
+        }
+      ]
+    }
+  ]
+}
